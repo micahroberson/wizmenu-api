@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  claim_number: 1
+  date: 2014-03-03
+  customer_id: 1
+  unit_id: 1
+  warranty_id: 1
+
+two:
+  user_id: 1
+  claim_number: 1
+  date: 2014-03-03
+  customer_id: 1
+  unit_id: 1
+  warranty_id: 1

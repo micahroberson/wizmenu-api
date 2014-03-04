@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  parts: false
+  labor: false
+  dealer: MyString
+  purchase_date: 2014-03-03
+  extended: MyString
+  authorization: MyString
+  policy: MyString
+  labor: 
+  rush: 
+  deposit_one: 
+  deposit_one_type: MyString
+  deposit_one_date: 2014-03-03
+
+two:
+  parts: false
+  labor: false
+  dealer: MyString
+  purchase_date: 2014-03-03
+  extended: MyString
+  authorization: MyString
+  policy: MyString
+  labor: 
+  rush: 
+  deposit_one: 
+  deposit_one_type: MyString
+  deposit_one_date: 2014-03-03
