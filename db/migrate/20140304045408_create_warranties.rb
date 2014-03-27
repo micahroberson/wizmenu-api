@@ -8,9 +8,9 @@ class CreateWarranties < ActiveRecord::Migration
       t.string :extended
       t.string :authorization
       t.string :policy
-      t.double :labor
-      t.double :rush
-      t.double :deposit_one
+      t.float :labor
+      t.float :rush
+      t.float :deposit_one
       t.string :deposit_one_type
       t.date :deposit_one_date
 
